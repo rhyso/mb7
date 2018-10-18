@@ -24,3 +24,14 @@ img {
 body{
   background-color: #090C23; margin: auto;
 }
+
+span.description{
+  margin-top: 360px;
+  color: white;
+  position: absolute;
+  opacity: 0.3;
+  margin: 360px auto;
+  margin-left: -118px;
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+}
